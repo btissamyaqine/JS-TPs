@@ -29,7 +29,7 @@ Context_Api_React is a context to how we can management a list of the Movies, fr
 - npm i react-leaflet
 
 ----------
-
+ 
 ## Redux-React
 
 Redux is a standalone JS library. As we've already seen, you can create and use a Redux store even if you don't have a user interface set up.
